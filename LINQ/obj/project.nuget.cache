@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0WosAySZE36Fo2h+8H9X2y6VS7v4ditwEaq1mDiQOts0HbcFhoFay9Lx5ZSclIb5CdsBEz5MwQFpuoypjy8tLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\acer\\Desktop\\C#\\LINQ\\LINQ.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\acer\\.nuget\\packages\\faker.net\\2.0.154\\faker.net.2.0.154.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\acer\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
