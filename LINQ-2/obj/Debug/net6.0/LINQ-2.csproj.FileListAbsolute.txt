@@ -1,0 +1,15 @@
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/bin/Debug/net6.0/LINQ-2
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/bin/Debug/net6.0/LINQ-2.deps.json
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/bin/Debug/net6.0/LINQ-2.runtimeconfig.json
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/bin/Debug/net6.0/LINQ-2.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/bin/Debug/net6.0/ref/LINQ-2.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/bin/Debug/net6.0/LINQ-2.pdb
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.csproj.AssemblyReference.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.GeneratedMSBuildEditorConfig.editorconfig
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.AssemblyInfoInputs.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.AssemblyInfo.cs
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.csproj.CoreCompileInputs.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/ref/LINQ-2.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.pdb
+/home/neutrinozh/collage-csharp/Collage-OOP/LINQ-2/obj/Debug/net6.0/LINQ-2.genruntimeconfig.cache
