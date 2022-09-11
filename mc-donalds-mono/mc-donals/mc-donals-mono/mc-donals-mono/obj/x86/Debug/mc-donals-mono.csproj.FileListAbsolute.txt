@@ -1,0 +1,2 @@
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds-mono/mc-donals/mc-donals-mono/mc-donals-mono/obj/x86/Debug/mc-donals-mono.csproj.AssemblyReference.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds-mono/mc-donals/mc-donals-mono/mc-donals-mono/obj/x86/Debug/mc-donals-mono.csproj.CoreCompileInputs.cache

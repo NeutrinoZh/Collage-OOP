@@ -1,0 +1,15 @@
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/bin/Debug/net6.0/mc-donalds
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/bin/Debug/net6.0/mc-donalds.deps.json
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/bin/Debug/net6.0/mc-donalds.runtimeconfig.json
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/bin/Debug/net6.0/mc-donalds.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/bin/Debug/net6.0/ref/mc-donalds.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/bin/Debug/net6.0/mc-donalds.pdb
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.csproj.AssemblyReference.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.GeneratedMSBuildEditorConfig.editorconfig
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.AssemblyInfoInputs.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.AssemblyInfo.cs
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.csproj.CoreCompileInputs.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/ref/mc-donalds.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.pdb
+/home/neutrinozh/collage-csharp/Collage-OOP/mc-donalds/obj/Debug/net6.0/mc-donalds.genruntimeconfig.cache
