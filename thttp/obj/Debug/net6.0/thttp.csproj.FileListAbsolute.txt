@@ -1,0 +1,15 @@
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/bin/Debug/net6.0/thttp
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/bin/Debug/net6.0/thttp.deps.json
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/bin/Debug/net6.0/thttp.runtimeconfig.json
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/bin/Debug/net6.0/thttp.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/bin/Debug/net6.0/ref/thttp.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/bin/Debug/net6.0/thttp.pdb
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.csproj.AssemblyReference.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.GeneratedMSBuildEditorConfig.editorconfig
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.AssemblyInfoInputs.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.AssemblyInfo.cs
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.csproj.CoreCompileInputs.cache
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/ref/thttp.dll
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.pdb
+/home/neutrinozh/collage-csharp/Collage-OOP/thttp/obj/Debug/net6.0/thttp.genruntimeconfig.cache
